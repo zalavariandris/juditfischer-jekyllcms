@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+    <link href="{{ '/assets/style.css' | relative_url }}" rel="stylesheet">
+  </head>
+  <body class="{{page.title}}">
+	<header>
+		<h1>
+			Judit<br/>Fischer
+		</h1>
+		<nav>
+			{% include navigation.html %}
+		</nav>
+		<span id="back"><</span>
+	</header>
+	
+	<article class="{{page.title}}">
+		<h2>{{page.title}}</h2>
+		{% for item in page.gallery %}
+		<figure>
+			<img src="{{item.image}}">
+			<figcaption>{{item.caption}}</figcaption>
+		</figure>
+		{% endfor %}
+		{{content}}
+	</article>
+
+	<footer>
+	</footer>
+
+	<script>
+		if (
+			"IntersectionObserver" in window &&
+			"IntersectionObserverEntry" in window &&
+			"intersectionRatio" in window.IntersectionObserverEntry.prototype
+			)
+		{
+
+			let header = document.querySelector("body>header")
+			let observer = new IntersectionObserver(entries => {
+				// console.log(entries[0].boundingClientRect);
+				let entry = entries[0]
+				if(entries[0].isIntersecting){
+					entry.target.classList.remove("unseen");
+				}else{
+					entry.target.classList.add("unseen");
+				}
+
+			});
+
+			observer.observe(header);
+
+			header.addEventListener('click', ()=>{
+				window.scrollTo({left: 0, behavior: 'smooth'});
+			})
+		}
+	</script>
+  </body>
+</html>
+

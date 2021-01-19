@@ -1,0 +1,28 @@
+---
+title: Judit Fischer
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/:name"
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: projects
+  values:
+    layout: default
+    title: "--Title--"
+    gallery:
+    - image: http://placekitten.com/200/300
+      caption: ''
+exclude:
+- README.md
+url: juditfischer.com
+permalink: pretty

@@ -1,0 +1,25 @@
+{% for collection in site.collections %}
+{% unless collection.label == "posts" %}
+<ul class="{{collection.label}}">
+	{% assign pages_by_date = site[collection.label] | sort: "year" | reverse %}
+	{% for page in pages_by_date %}
+		{% unless page.exclude %}
+
+	    <li><a href="{{ page.url | relative_url }}">
+
+	    {{page.title | default: page.name | split: "." | first}}
+
+	  	</a></li>
+	    {% endunless %}
+	{% endfor %}
+</ul>
+{% endunless %}
+{% endfor %}
+
+<ul class="pages">
+	{% for page in site.html_pages %}
+	{% unless page.exclude %}
+    <li><a href="{{ page.url | relative_url }}">{{page.title}}</a></li>
+    {% endunless %}
+  	{% endfor %}
+</ul>

@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Kite+One&family=Nunito:wght@400;600&family=Varela+Round&display=swap');
+:root{
+	--primaryColor: #bf4646;
+	--backgroundColor: white;
+	--onBackgroundColor: black;
+	--onBakcgroundVariantColor: #b9b9b9;
+};
+
+/*
+THIS IS A MESS for now...
+*/
+
+/*MAIN LAYOUT*/	
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	display: flex;
+	align-items: flex-end;
+	height: calc(100vh - 70px);
+	height: 100%;
+	padding-top: 6vh;
+    padding-bottom: calc(12vh);
+    box-sizing: border-box;
+
+	font-family: 'Varela Round', sans-serif;
+	/*font-family: 'Kite One', sans-serif;*/
+	/*font-family: 'Sofia', sans-serif;*/
+	/*font-family: 'Nunito', sans-serif;*/
+	/*font-family: 'Happy Monkey', cursive;*/
+	
+	background-color: var(--backgroundColor);
+	color: var(--primaryColor);
+	color: var(--onBackgroundColor);
+
+	overflow-y: hidden;
+}
+
+body>header{
+	color: var(--primaryColor);
+	border-left: 1em solid transparent;
+	max-width: 85vw;
+}
+
+body>header{
+	display: flex;
+    align-items: flex-end;
+    /*gap: 2em;*/
+}
+body>header>*{
+	margin-right: 1em;
+}
+
+body #back{
+	display: block;
+	position: fixed;
+
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: 100;
+
+	margin-left: 2em;
+	margin-bottom: -2em;
+
+	opacity: 0.0;
+	transition: opacity 0.1s;
+	
+	pointer-events: none;
+	cursor: pointer;
+}
+
+header.unseen #back{
+	opacity: 1.0;
+	transition: opacity 1s;
+
+	pointer-events: auto;
+}
+
+/*ARTICLE*/
+article{
+	margin-left: 6em;
+	padding-right: 6em;
+	display: flex;
+	align-items: flex-end;
+	height: 74vh;
+}
+
+article>h2{
+	/*border: 1em var(--primaryColor) dashed;*/
+	/*text-decoration: underline;*/
+	color: var(--primaryColor);
+	margin: 0;
+	margin-bottom: -0.05em;
+
+	display: block;
+	height: 100%;
+}
+
+article>p{
+	display: inline-block;
+	margin: 0;
+}
+
+article>*{
+	margin-right: 130px !important; /*gap*/
+}
+
+article>p>img{
+	max-height: 74vh;
+	max-width: 99vw;
+	object-fit: contain;
+	display: block;
+}
+
+/* COMPONENTS */
+h1{
+	margin: 0;
+	/*font-size: 180%;*/
+	margin-bottom: -0.12em;
+}
+
+
+/* LINKS */
+h1>a, h2>a, h3>a{
+	color: inherit;
+	text-decoration: none;
+}
+h1>a, h2>a, h3>a:hover{
+	text-decoration: underline;
+}
+/* NAVIGATION */
+nav a{
+	white-space: nowrap;
+}
+nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav a{
+	color: inherit;
+	text-decoration: none
+}
+nav a:hover{
+	text-decoration: underline;
+}
+
+nav li+li{
+	margin-top: 0.3em;
+}
+nav ul+ul{
+	margin-top: 1em;
+}
+
+
+/* CAPTION */
+/* take out caption from flow, an put it under the image*/
+article>p{
+	position: relative;
+}
+
+p>img+em{
+	position: absolute;
+	display: block;
+	right: 0;
+
+	color: var(--onBakcgroundVariantColor);
+	font-size: 66%;
+	padding: 0.5em 2em;
+}
+
+body.cv>article{
+	display: block;
+	column-width: 16em;
+	font-size: 12px;
+}
+body.cv>article>p{
+	display: block;
+	margin-right: 1em !important;
+}
+
+article.news{
+	font-size: 12px;
+	display: block;
+	column-width: 16em;
+}
+
+article.news h2{
+	height: auto;
+}
+
+article.news img{
+	width: 100%;
+}
+article.news figure{
+	margin: 0;
+}
+article.news>*{
+	margin-right: 2em !important;
+}
+article.news .surface h3{
+	margin: 0;
+}
+article.news .surface p{
+	margin: 0;
+}
+article.news .surface::after{
+	content: "";
+	display: block;
+	width: 100%;
+	margin: 3em auto;
+	/*margin: auto;*/
+
+	border-bottom: 1px solid lightgrey;
+}
