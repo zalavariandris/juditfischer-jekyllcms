@@ -3,7 +3,8 @@ title: I am too sercli
 layout: default
 year: 2017
 gallery:
-- image: "/_uploads/cetlifestmeny2.jpg"
+- image: 
+  - url: "/_uploads/cetlifestmeny2.jpg"
   caption: _cetlifestmeny_
 - image: 
   - url: "/_uploads/Fischer Judit 58 sRGB JPEG 72ppi.jpg"
