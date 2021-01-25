@@ -17,4 +17,4 @@ gallery:
       alt: ''
     caption: pogacsa
 ---
-Három kép.
+three image
