@@ -11,10 +11,5 @@ gallery:
       title: pogacsa.jpg
       alt: ''
     caption: pogi
-  - image:
-      url: media/Screenshot 2020-12-20 205321.jpg
-      title: Screenshot 2020-12-20 205321.jpg
-      alt: ''
-    caption: nemtu
 ---
 thecontent
