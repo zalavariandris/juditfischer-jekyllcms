@@ -1,5 +1,0 @@
----
-title: empty project
-gallery: []
----
-
