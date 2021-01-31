@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Random Test Page
 layout: default
 exclude: true
 ---
