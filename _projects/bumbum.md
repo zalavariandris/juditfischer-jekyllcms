@@ -1,5 +1,0 @@
----
-title: bumbum
-gallery: []
----
-
