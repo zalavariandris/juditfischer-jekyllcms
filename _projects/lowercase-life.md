@@ -17,6 +17,56 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/Fischer Judit 61 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 61 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 62 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 62 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 63 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 63 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 64 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 64 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 65 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 65 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 66 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 66 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 67 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 67 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 68 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 68 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 69 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 69 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 70 sRGB 72ppi 1920px.jpg
+      title: Fischer Judit 70 sRGB 72ppi 1920px.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/Fischer Judit 03.jpg
       title: Fischer Judit 03.jpg
       alt: ''
@@ -92,31 +142,6 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer Judit 61 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 61 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 62 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 62 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 65 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 65 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 64 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 64 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 67 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 67 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer Judit 33.jpg
       title: Fischer Judit 33.jpg
       alt: ''
@@ -139,31 +164,6 @@ gallery:
   - image:
       url: media/Fischer Judit 39.jpg
       title: Fischer Judit 39.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 68 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 68 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 66 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 66 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 63 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 63 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 70 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 70 sRGB 72ppi 1920px.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 69 sRGB 72ppi 1920px.jpg
-      title: Fischer Judit 69 sRGB 72ppi 1920px.jpg
       alt: ''
     caption: ''
   - image:
