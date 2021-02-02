@@ -67,6 +67,21 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/IMG_1799.jpg
+      title: IMG_1799.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/IMG_2975.jpg
+      title: IMG_2975.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 01 sRGB JPEG 72ppi.jpg
+      title: Fischer Judit 01 sRGB JPEG 72ppi.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/Fischer Judit 03.jpg
       title: Fischer Judit 03.jpg
       alt: ''
@@ -164,21 +179,6 @@ gallery:
   - image:
       url: media/Fischer Judit 39.jpg
       title: Fischer Judit 39.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/IMG_2975.jpg
-      title: IMG_2975.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/IMG_1799.jpg
-      title: IMG_1799.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 01 sRGB JPEG 72ppi.jpg
-      title: Fischer Judit 01 sRGB JPEG 72ppi.jpg
       alt: ''
     caption: ''
   - image:
