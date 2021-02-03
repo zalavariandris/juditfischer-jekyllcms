@@ -22,7 +22,7 @@
 		<h2>{{page.title}}</h2>
 		{% for item in page.gallery %}
 		<figure>
-			<img src="{{item.image}}">
+			<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
 			<figcaption>{{item.caption}}</figcaption>
 		</figure>
 		{% endfor %}
