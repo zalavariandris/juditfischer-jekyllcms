@@ -1,5 +1,5 @@
 ---
-title: bumbum-RENAMED
+title: bumbum-R
 gallery: []
 ---
 bumbum
