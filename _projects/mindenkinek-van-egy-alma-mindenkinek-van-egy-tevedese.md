@@ -1,5 +1,5 @@
 ---
-title: Mindenkinek van egy álma
+title: 'Mindenkinek van egy álma, mindenkinek van egy tévedése'
 gallery:
   - image:
       url: media/IMG_3850.jpg
