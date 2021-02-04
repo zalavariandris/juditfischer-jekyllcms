@@ -1,5 +1,5 @@
 ---
-title: Gibberish Halamandzsa
+title: Gibberish / Halamandzsa
 gallery:
   - image:
       url: media/Fischer Judit 57 sRGB JPEG 72ppi.jpg
