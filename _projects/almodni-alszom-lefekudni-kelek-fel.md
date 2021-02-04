@@ -1,5 +1,5 @@
 ---
-title: Álmodni alszom
+title: 'Álmodni alszom, lefeküdni kelek fel'
 gallery:
   - image:
       title: IMG_7142_1.jpg
