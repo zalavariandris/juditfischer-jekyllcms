@@ -12,4 +12,3 @@ gallery:
       2007
 ---
 
-Azert háborózni hogy kiskutya alakú legyen az ország
