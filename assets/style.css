@@ -115,6 +115,13 @@ article>figure>img{
 	object-fit: contain;
 	display: block;
 }
+article>figure>figcaption{
+	margin: 0.6rem;
+    font-size: 0.7rem;
+    color: darkgrey;
+    text-align: right;
+    font-style: italic;
+}
 
 /* COMPONENTS */
 h1{
