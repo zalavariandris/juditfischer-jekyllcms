@@ -98,7 +98,9 @@ article h2{
 	margin-bottom: -0.05em;
 
 	display: block;
-	height: 100%;
+	
+	width: max-content;
+    max-width: 12rem;
 }
 
 article>p{
