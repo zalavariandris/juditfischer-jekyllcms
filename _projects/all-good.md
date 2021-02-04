@@ -52,11 +52,6 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer Judit 43.jpg
-      title: Fischer Judit 43.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer Judit 31.jpg
       title: Fischer Judit 31.jpg
       alt: ''
@@ -104,6 +99,11 @@ gallery:
   - image:
       url: media/Fischer Judit 46.jpg
       title: Fischer Judit 46.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 43.jpg
+      title: Fischer Judit 43.jpg
       alt: ''
     caption: ''
   - image:
