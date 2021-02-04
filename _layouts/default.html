@@ -19,14 +19,18 @@
 	</header>
 	
 	<article class="{{page.title}}">
-		<h2>{{page.title}}</h2>
+		<header>
+			<h2>{{page.title}}</h2>
+			{{content}}
+		</header>
+		
 		{% for item in page.gallery %}
 		<figure>
 			<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
 			<figcaption>{{item.caption}}</figcaption>
 		</figure>
 		{% endfor %}
-		{{content}}
+		
 	</article>
 
 	<footer>

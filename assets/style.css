@@ -5,7 +5,7 @@
 	--primaryColor: #bf4646;
 	--backgroundColor: white;
 	--onBackgroundColor: black;
-	--onBakcgroundVariantColor: #b9b9b9;
+	--onBakcgroundVariantColor: rgb(100,100,100);
 };
 
 /*
@@ -87,9 +87,10 @@ article{
 	display: flex;
 	align-items: flex-end;
 	height: 74vh;
+	color: var(--onBakcgroundVariantColor);
 }
 
-article>h2{
+article h2{
 	/*border: 1em var(--primaryColor) dashed;*/
 	/*text-decoration: underline;*/
 	color: var(--primaryColor);
@@ -107,6 +108,14 @@ article>p{
 
 article>*{
 	margin-right: 130px !important; /*gap*/
+}
+
+article>header{
+	margin-right: 3rem;
+}
+article>header>p{
+	width: max-content;
+    max-width: 16rem;
 }
 
 article>figure>img{
@@ -187,7 +196,7 @@ body.cv>article{
 }
 body.cv>article>p{
 	display: block;
-	margin-right: 1em !important;
+	margin-right: 1em;
 }
 
 article.news{
