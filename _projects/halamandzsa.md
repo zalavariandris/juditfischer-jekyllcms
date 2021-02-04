@@ -2,23 +2,23 @@
 title: Halamandzsa
 gallery:
   - image:
-      url: media/Fischer Judit 04 sRGB JPEG 72ppi.jpg
-      title: Fischer Judit 04 sRGB JPEG 72ppi.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer Judit 57 sRGB JPEG 72ppi.jpg
       title: Fischer Judit 57 sRGB JPEG 72ppi.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/gyongysor.jpg
-      title: gyongysor.jpg
+      url: media/IMG_8885.jpg
+      title: IMG_8885.jpg
       alt: ''
     caption: ''
   - image:
       url: media/IMG_8805.jpg
       title: IMG_8805.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 04 sRGB JPEG 72ppi.jpg
+      title: Fischer Judit 04 sRGB JPEG 72ppi.jpg
       alt: ''
     caption: ''
   - image:
@@ -47,11 +47,6 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/IMG_8885.jpg
-      title: IMG_8885.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/IMG_8892.jpg
       title: IMG_8892.jpg
       alt: ''
@@ -71,10 +66,6 @@ gallery:
       title: pirospompom.jpg
       alt: ''
     caption: ''
-  - image:
-      url: media/pomponok.jpg
-      title: pomponok.jpg
-      alt: ''
-    caption: ''
 ---
 
+With Zsófia Szemző and Judit Navratil
