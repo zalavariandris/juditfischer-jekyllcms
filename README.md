@@ -1,2 +1,5 @@
-## TODO:
-- style.css appears in site.pages but only on github. site.pages shoud list pages only.
+# Jekyl-CMS Sandbox
+A sandbox for my jekyll-cms currently in development.
+
+## To host on a domain
+create a CNAME file containing the domain
