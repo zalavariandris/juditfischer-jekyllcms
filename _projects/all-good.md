@@ -82,11 +82,6 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Scan10005.jpg
-      title: Scan10005.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/IMG_9262.jpg
       title: IMG_9262.jpg
       alt: ''
@@ -107,6 +102,21 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/Fischer Judit 46.jpg
+      title: Fischer Judit 46.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Scan10005.jpg
+      title: Scan10005.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 47.jpg
+      title: Fischer Judit 47.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/IMG_9283.jpg
       title: IMG_9283.jpg
       alt: ''
@@ -119,16 +129,6 @@ gallery:
   - image:
       url: media/Fischer Judit 02 sRGB JPEG 72ppi.jpg
       title: Fischer Judit 02 sRGB JPEG 72ppi.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 47.jpg
-      title: Fischer Judit 47.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer Judit 46.jpg
-      title: Fischer Judit 46.jpg
       alt: ''
     caption: ''
   - image:
