@@ -109,7 +109,7 @@ article>*{
 	margin-right: 130px !important; /*gap*/
 }
 
-article>p>img{
+article>figure>img{
 	max-height: 74vh;
 	max-width: 99vw;
 	object-fit: contain;
