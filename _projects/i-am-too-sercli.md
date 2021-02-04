@@ -2,31 +2,54 @@
 title: I am too sercli
 gallery:
   - image:
-      url: /_uploads/cetlifestmeny2.jpg
-    caption: _cetlifestmeny_
-  - image:
-      url: /_uploads/Fischer Judit 58 sRGB JPEG 72ppi.jpg
+      url: media/cetlifestmeny2.jpg
+      title: cetlifestmeny2.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/IMG_6488.JPG
+      url: media/Fischer Judit 58 sRGB JPEG 72ppi.jpg
+      title: Fischer Judit 58 sRGB JPEG 72ppi.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/IMG_6491.JPG
+      url: media/IMG_6488.jpg
+      title: IMG_6488.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/IMG_6501.JPG
+      url: media/Fischer Judit Paletták.jpg
+      title: Fischer Judit Paletták.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/IMG_6546 copy.JPG
+      url: media/IMG_6491.jpg
+      title: IMG_6491.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/IMG_6552.JPG
+      url: media/IMG_6501.jpg
+      title: IMG_6501.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/szappan.jpg
+      url: media/IMG_6546 copy.jpg
+      title: IMG_6546 copy.jpg
+      alt: ''
     caption: ''
   - image:
-      url: /_uploads/szappan2.jpg
+      url: media/IMG_6552.jpg
+      title: IMG_6552.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/szappan2.jpg
+      title: szappan2.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/szappan.jpg
+      title: szappan.jpg
+      alt: ''
     caption: ''
 ---
 SERCLI
