@@ -1,5 +1,5 @@
 ---
-title: Kiskutya Ország
+title: Go to War for a Puppy-shaped Hungary
 gallery:
   - image:
       url: >-
