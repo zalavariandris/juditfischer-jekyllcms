@@ -12,13 +12,13 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_43.jpg
-      title: Fischer_Judit_43.jpg
+      url: media/Fischer_Judit_02.jpg
+      title: Fischer_Judit_02.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_02.jpg
-      title: Fischer_Judit_02.jpg
+      url: media/Fischer_Judit_43.jpg
+      title: Fischer_Judit_43.jpg
       alt: ''
     caption: ''
   - image:
@@ -214,6 +214,26 @@ gallery:
   - image:
       url: media/Fischer_Judit_32.jpg
       title: Fischer_Judit_32.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer Judit 45.jpg
+      title: Fischer Judit 45.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Judit-298.jpg
+      title: Judit-298.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Judit-299.jpg
+      title: Judit-299.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Judit-297.jpg
+      title: Judit-297.jpg
       alt: ''
     caption: ''
 ---
