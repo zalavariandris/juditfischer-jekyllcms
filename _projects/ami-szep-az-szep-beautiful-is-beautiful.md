@@ -12,16 +12,6 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_02.jpg
-      title: Fischer_Judit_02.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer_Judit_43.jpg
-      title: Fischer_Judit_43.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer_Judit_01.jpg
       title: Fischer_Judit_01.jpg
       alt: ''
@@ -57,6 +47,11 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/Fischer_Judit_43.jpg
+      title: Fischer_Judit_43.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/Fischer_Judit_14.jpg
       title: Fischer_Judit_14.jpg
       alt: ''
@@ -82,23 +77,8 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_09.jpg
-      title: Fischer_Judit_09.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer_Judit_23.jpg
       title: Fischer_Judit_23.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer_Judit_06.jpg
-      title: Fischer_Judit_06.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer_Judit_17.jpg
-      title: Fischer_Judit_17.jpg
       alt: ''
     caption: ''
   - image:
@@ -109,11 +89,6 @@ gallery:
   - image:
       url: media/Fischer_Judit_11.jpg
       title: Fischer_Judit_11.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer_Judit_18.jpg
-      title: Fischer_Judit_18.jpg
       alt: ''
     caption: ''
   - image:
@@ -137,18 +112,8 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_29.jpg
-      title: Fischer_Judit_29.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer_Judit_24.jpg
       title: Fischer_Judit_24.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer_Judit_05.jpg
-      title: Fischer_Judit_05.jpg
       alt: ''
     caption: ''
   - image:
@@ -192,11 +157,6 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_40.jpg
-      title: Fischer_Judit_40.jpg
-      alt: ''
-    caption: ''
-  - image:
       url: media/Fischer_Judit_34.jpg
       title: Fischer_Judit_34.jpg
       alt: ''
@@ -209,11 +169,6 @@ gallery:
   - image:
       url: media/Fischer_Judit_41.jpg
       title: Fischer_Judit_41.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/Fischer_Judit_32.jpg
-      title: Fischer_Judit_32.jpg
       alt: ''
     caption: ''
   - image:
@@ -234,6 +189,41 @@ gallery:
   - image:
       url: media/Judit-297.jpg
       title: Judit-297.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_02.jpg
+      title: Fischer_Judit_02.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_09.jpg
+      title: Fischer_Judit_09.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_06.jpg
+      title: Fischer_Judit_06.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_17.jpg
+      title: Fischer_Judit_17.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_05.jpg
+      title: Fischer_Judit_05.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_32.jpg
+      title: Fischer_Judit_32.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_18.jpg
+      title: Fischer_Judit_18.jpg
       alt: ''
     caption: ''
 ---
