@@ -1,5 +1,5 @@
 ---
-title: Végre tanulhatunk valamit/ Finally We Can Learn Somethinh
+title: Végre tanulhatunk valamit/ Finally We Can Learn Something
 gallery:
   - image:
       url: media/_S7A3221.jpg
