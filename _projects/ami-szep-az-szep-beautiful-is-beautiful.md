@@ -1,5 +1,5 @@
 ---
-title: 'Ami szép, az szép'
+title: 'Ami szép, az szép / Beautiful is Beautiful'
 gallery:
   - image:
       url: media/Fischer_Judit_07.jpg
