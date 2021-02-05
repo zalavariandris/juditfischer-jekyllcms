@@ -2,8 +2,8 @@
 title: 'Ami szép, az szép / Beautiful is Beautiful'
 gallery:
   - image:
-      url: media/Fischer_Judit_07.jpg
-      title: Fischer_Judit_07.jpg
+      url: media/Fischer_Judit_Suba_1080px (1).jpg
+      title: Fischer_Judit_Suba_1080px (1).jpg
       alt: ''
     caption: ''
   - image:
@@ -37,8 +37,8 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_39.jpg
-      title: Fischer_Judit_39.jpg
+      url: media/Fischer_Judit_07.jpg
+      title: Fischer_Judit_07.jpg
       alt: ''
     caption: ''
   - image:
@@ -109,6 +109,11 @@ gallery:
   - image:
       url: media/Fischer_Judit_25.jpg
       title: Fischer_Judit_25.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/Fischer_Judit_39.jpg
+      title: Fischer_Judit_39.jpg
       alt: ''
     caption: ''
   - image:
