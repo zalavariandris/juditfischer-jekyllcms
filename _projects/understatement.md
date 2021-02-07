@@ -7,6 +7,11 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/aaIMG_5273.jpg
+      title: aaIMG_5273.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/aaIMG_5428.jpg
       title: aaIMG_5428.jpg
       alt: ''
