@@ -1,6 +1,14 @@
 ---
 title: Judit Fischer
 timezone: UTC
+exclude:
+- README.md
+
+url: juditfischer.com
+permalink: pretty
+livereload: true     # You no longer need to include --livereload
+incremental: false
+
 collections:
   posts:
     title: Posts
@@ -12,6 +20,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+
 defaults:
 - scope:
     path: ''
@@ -22,7 +31,4 @@ defaults:
     gallery:
     - image: http://placekitten.com/200/300
       caption: ''
-exclude:
-- README.md
-url: juditfischer.com
-permalink: pretty
+

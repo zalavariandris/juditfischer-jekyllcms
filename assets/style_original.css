@@ -17,6 +17,7 @@ html{
 	margin: 0;
 	padding: 0;
 }
+
 body{
 	margin: 0;
 	display: flex;
@@ -28,6 +29,7 @@ body{
     box-sizing: border-box;
 
 	font-family: 'Varela Round', sans-serif;
+	font-size: 12pt;
 	/*font-family: 'Kite One', sans-serif;*/
 	/*font-family: 'Sofia', sans-serif;*/
 	/*font-family: 'Nunito', sans-serif;*/
@@ -37,12 +39,12 @@ body{
 	color: var(--primaryColor);
 	color: var(--onBackgroundColor);
 
-	overflow-y: hidden;
+	/*overflow-y: hidden;*/
 }
 
 body>header{
 	color: var(--primaryColor);
-	border-left: 1em solid transparent;
+	border-left: 1rem solid transparent;
 	max-width: 85vw;
 }
 
@@ -52,7 +54,7 @@ body>header{
     /*gap: 2em;*/
 }
 body>header>*{
-	margin-right: 1em;
+	margin-right: 1rem;
 }
 
 body #back{
@@ -60,11 +62,11 @@ body #back{
 	position: fixed;
 
 	font-family: monospace;
-	font-size: 30px;
+	/*font-size: 30px;*/
 	font-weight: 100;
 
-	margin-left: 2em;
-	margin-bottom: -2em;
+	margin-left: 2rem;
+	margin-bottom: -2rem;
 
 	opacity: 0.0;
 	transition: opacity 0.1s;
@@ -82,34 +84,26 @@ header.unseen #back{
 
 /*ARTICLE*/
 article{
-	margin-left: 6em;
-	padding-right: 6em;
-	display: flex;
-	align-items: flex-end;
+	margin-left: 6rem;
+	padding-right: 6rem;
 	height: 74vh;
 	color: var(--onBakcgroundVariantColor);
+
+	display: flex;
+	align-items: flex-end;
 }
 
-article h2{
+h2{
 	/*border: 1em var(--primaryColor) dashed;*/
 	/*text-decoration: underline;*/
 	color: var(--primaryColor);
 	margin: 0;
-	margin-bottom: -0.05em;
+	margin-bottom: -0.05rem;
 
 	display: block;
 	
 	width: max-content;
     max-width: 12rem;
-}
-
-article>p{
-	display: inline-block;
-	margin: 0;
-}
-
-article>*{
-	margin-right: 130px !important; /*gap*/
 }
 
 article>header{
@@ -120,13 +114,17 @@ article>header>p{
     max-width: 16rem;
 }
 
-article>figure>img{
+article>section{
+	display: flex;
+}
+
+article>section>figure>img{
 	max-height: 74vh;
 	max-width: 99vw;
 	object-fit: contain;
 	display: block;
 }
-article>figure>figcaption{
+article>section>figure>figcaption{
 	margin: 0.6rem;
     font-size: 0.7rem;
     color: darkgrey;
@@ -235,3 +233,4 @@ article.news .surface::after{
 
 	border-bottom: 1px solid lightgrey;
 }
+

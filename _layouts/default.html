@@ -1,36 +1,44 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
-    <link href="{{ '/assets/style.css' | relative_url }}" rel="stylesheet">
+    <link href="{{ '/assets/style_responsive.css' | relative_url }}" rel="stylesheet">
   </head>
   <body class="{{page.title}}">
 	<header>
 		<h1>
 			Judit<br/>Fischer
 		</h1>
+		
 		<nav>
 			{% include navigation.html %}
 		</nav>
-		<span id="back"><</span>
+		<span class="button" id="back"></span>
 	</header>
 	
 	<article class="{{page.title}}">
 		<header>
-			<h2>{{page.title}}</h2>
-			{{content}}
+			<h2 id="page_header">{{page.title}}</h2>
 		</header>
-		
-		{% for item in page.gallery %}
-		<figure>
-			<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
-			<figcaption>{{item.caption}}</figcaption>
-		</figure>
-		{% endfor %}
-		
+
+		<section>
+			{{content}}
+		</section>
+
+		<section class="gallery">
+			{% for item in page.gallery %}
+			<figure>
+				<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
+				<figcaption>{{item.caption}}</figcaption>
+			</figure>
+			{% endfor %}
+		</section>
 	</article>
 
 	<footer>
@@ -45,6 +53,8 @@
 		{
 
 			let header = document.querySelector("body>header")
+			console.assert(header)
+			
 			let observer = new IntersectionObserver(entries => {
 				// console.log(entries[0].boundingClientRect);
 				let entry = entries[0]
@@ -58,8 +68,8 @@
 
 			observer.observe(header);
 
-			header.addEventListener('click', ()=>{
-				window.scrollTo({left: 0, behavior: 'smooth'});
+			header.querySelector("#back").addEventListener('click', ()=>{
+				window.scrollTo({left: 0, top: 0, behavior: 'smooth'});
 			})
 		}
 	</script>

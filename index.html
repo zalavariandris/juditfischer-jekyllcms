@@ -1,0 +1,18 @@
+---
+layout: default
+exclude: true
+---
+
+{% for post in site.posts %}
+	<article class="surface">
+		<header>
+			<h3>
+				{{ post.title }}
+			</h3>
+			<figure>
+				<img width="100px" src="{{post.image.url}}"/>
+			</figure>
+		</header>
+		{{ post.content }}
+	</article>
+{% endfor %}
