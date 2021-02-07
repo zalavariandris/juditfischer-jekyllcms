@@ -2,8 +2,8 @@
 title: 'Mindenkinek van egy álma, mindenkinek van egy tévedése'
 gallery:
   - image:
-      url: media/_MG_3863.jpg
-      title: _MG_3863.jpg
+      url: media/IMG_3863.jpg
+      title: IMG_3863.jpg
       alt: ''
     caption: ''
   - image:
