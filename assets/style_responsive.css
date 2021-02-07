@@ -51,11 +51,14 @@ body{
 
 h1, h2, nav, a, .button{
 	color: var(--primaryColor);
-	/*padding: 1em 0;*/
 	margin-bottom: 3em;
 	text-align: center;
 	max-width: 14rem;
 	margin: auto;
+}
+
+h2{
+	font-size: 1rem;
 }
 
 /* LAYOUT */
@@ -238,7 +241,7 @@ figcaption{
 
 
 	article section{
-		margin-top: 1em;
+		/*margin-top: 1em;*/
 	}
 
 	figure+figure{
@@ -294,10 +297,15 @@ figcaption{
 		border: none;
 		border-left: 2px solid var(--primaryColor);
 		left: 10vw;
-		bottom: 10vh;
+		bottom: 6vh;
 	}
 	#back::after{
 		content: "<";
 
+	}
+
+	figure{
+		display: flex;
+    	flex-direction: column;
 	}
 }
