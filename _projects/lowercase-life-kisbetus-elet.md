@@ -1,5 +1,5 @@
 ---
-title: Lowercase Life
+title: Lowercase Life / Kisbetűs élet
 gallery:
   - image:
       url: media/Fischer Judit 57 sRGB 72ppi 1920px.jpg
@@ -212,4 +212,4 @@ gallery:
       alt: ''
     caption: ''
 ---
-
+2009 FKSE
