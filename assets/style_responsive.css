@@ -149,6 +149,17 @@ article header+section>article img{
     object-position: left;
 }
 
+.cv section{
+	display: block;
+	max-height: 100%;
+    column-width: 10rem;
+    font-size: 0.8rem;
+    margin-left: 3rem;
+}
+.cv section p{
+	margin: 0;
+}
+
 @media screen and (min-width: 600px) {
 	h1, h2, nav, a, .button{
 		text-align: left;
@@ -173,7 +184,7 @@ article header+section>article img{
 
 	body>header>h1{
 		margin-bottom: -0.5rem;
-    margin-right: 1rem;
+    	margin-right: 1rem;
 	}
 
 	body>header>nav{
