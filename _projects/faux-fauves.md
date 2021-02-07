@@ -37,4 +37,4 @@ gallery:
     caption: ''
 ---
 
-with Gábor Kristóf
+in collaboration with Gábor Kristóf
