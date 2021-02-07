@@ -162,4 +162,4 @@ gallery:
       alt: ''
     caption: ''
 ---
-
+with Judit Navratil, Inda Galéria, 2011
