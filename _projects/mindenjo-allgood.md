@@ -160,6 +160,6 @@ gallery:
       url: media/IMAG1189.jpg
       title: IMAG1189.jpg
       alt: ''
-    caption: ''
+    caption: 'catering: miniatűr és felnagyított ételek'
 ---
 with Judit Navratil, Inda Galéria, 2011
