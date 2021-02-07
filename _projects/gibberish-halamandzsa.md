@@ -22,18 +22,13 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/IMG_8892.jpg
+      title: IMG_8892.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/IMG_8834.jpg
       title: IMG_8834.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/IMG_8869.jpg
-      title: IMG_8869.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/IMG_8872.jpg
-      title: IMG_8872.jpg
       alt: ''
     caption: ''
   - image:
@@ -47,8 +42,13 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/IMG_8892.jpg
-      title: IMG_8892.jpg
+      url: media/IMG_8872.jpg
+      title: IMG_8872.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/IMG_8869.jpg
+      title: IMG_8869.jpg
       alt: ''
     caption: ''
   - image:
