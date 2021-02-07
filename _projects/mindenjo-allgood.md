@@ -1,5 +1,5 @@
 ---
-title: All Good / Mindenjó
+title: ' Mindenjó / Allgood'
 gallery:
   - image:
       url: media/Fischer Judit 29.jpg
