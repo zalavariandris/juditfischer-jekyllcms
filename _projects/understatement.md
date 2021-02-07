@@ -28,4 +28,4 @@ gallery:
     caption: ''
 ---
 
-With Levente Szűcs, 2013, Liget Galéria
+With Levente Szűcs, Liget Galéria,2013
