@@ -2,6 +2,16 @@
 title: Végre tanulhatunk valamit / Finally We Can Learn Something
 gallery:
   - image:
+      url: media/instaposzt_en.jpg
+      title: instaposzt_en.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/instaposzt_hu.jpg
+      title: instaposzt_hu.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/_S7A3221.jpg
       title: _S7A3221.jpg
       alt: ''
