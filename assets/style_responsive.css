@@ -51,7 +51,7 @@ body{
 
 h1, h2, nav, a, .button{
 	color: var(--primaryColor);
-	padding: 1em 0;
+	/*padding: 1em 0;*/
 	margin-bottom: 3em;
 	text-align: center;
 	max-width: 14rem;
@@ -77,11 +77,15 @@ article img{
 }
 
 header>nav{
-	padding: 1rem;
+	margin: 0 1rem;
 }
 
 figure+figure{
 	margin-top: 3rem;
+}
+
+ul+ul{
+	margin-top: 1rem;
 }
 
 /* 
@@ -123,13 +127,29 @@ header:not(.unseen) #back{
 	pointer-events: none;
 }
 
-@media screen and (min-width: 600px) {
-	body{
-		background-color: rgb(240,240,240);
-		background: linear-gradient(33deg, rgb(250,250,244) 1px, rgb(253 253 253) 1px);
-    	background-size: 10px 10px;
-	}
+body{
+	background-color: rgb(240,240,240);
+	background: linear-gradient(33deg, rgb(250,250,244) 1px, rgb(253 253 253) 1px);
+	background-size: 10px 10px;
+}
 
+article header+section>article{
+	margin-top: 5rem;
+	background: white;
+}
+
+article header+section>article h3{
+	width: 13rem;
+}
+
+article header+section>article img{
+    width: 100%;
+    max-height: 50vh;
+    object-fit: contain;
+    object-position: left;
+}
+
+@media screen and (min-width: 600px) {
 	h1, h2, nav, a, .button{
 		text-align: left;
 		margin: 0;
@@ -149,6 +169,11 @@ header:not(.unseen) #back{
 		display: flex;
 		align-items: flex-end;
 		width: max-content;
+	}
+
+	body>header>h1{
+		margin-bottom: -0.5rem;
+    margin-right: 1rem;
 	}
 
 	body>header>nav{
@@ -209,6 +234,11 @@ header:not(.unseen) #back{
 	}
 	article header+section{
 		max-width: 25vw;
+		display: flex;
+	}
+
+	article header+section>article{
+		margin-right: 3rem;
 	}
 
 	p{
@@ -237,6 +267,4 @@ header:not(.unseen) #back{
 		content: "<";
 
 	}
-
-
 }

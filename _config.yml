@@ -7,7 +7,7 @@ exclude:
 url: juditfischer.com
 permalink: pretty
 livereload: true     # You no longer need to include --livereload
-incremental: false
+incremental: true
 
 collections:
   posts:
