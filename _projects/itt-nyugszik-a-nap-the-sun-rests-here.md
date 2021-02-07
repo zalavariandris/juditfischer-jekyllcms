@@ -76,5 +76,20 @@ gallery:
       title: P4040092.jpg
       alt: ''
     caption: ''
+  - image:
+      url: media/_MG_3130.JPG
+      title: _MG_3130.JPG
+      alt: ''
+    caption: ''
+  - image:
+      url: media/_MG_3069.JPG
+      title: _MG_3069.JPG
+      alt: ''
+    caption: ''
+  - image:
+      url: media/_MG_3071.JPG
+      title: _MG_3071.JPG
+      alt: ''
+    caption: ''
 ---
 
