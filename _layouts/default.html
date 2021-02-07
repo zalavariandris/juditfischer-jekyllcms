@@ -54,7 +54,7 @@
 			)
 		{
 
-			let header = document.querySelector("body>header")
+			let header = document.querySelector(".container>header")
 			console.assert(header)
 			
 			let observer = new IntersectionObserver(entries => {
@@ -74,6 +74,32 @@
 				window.scrollTo({left: 0, top: 0, behavior: 'smooth'});
 			})
 		}
+	</script>
+	<script type="text/javascript" src="https://unpkg.com/chroma-js@2.0.3/chroma.min.js"></script>
+	<script>
+		const elements = document.querySelectorAll("a, p, h1, h2, h3, figcaption")
+
+		function textGradient(){
+			var colorB = chroma("rgb(163, 103, 140)")
+			var colorA =  chroma("rgb(197, 218, 128)")
+			if(window.innerWidth<600){
+				let c = colorB
+				colorB = colorA
+				colorA = c
+			}
+			
+
+			for(let elem of elements){
+				const rect = elem.getBoundingClientRect();
+				let color = chroma.mix(colorA, colorB, rect.y/window.innerHeight, "rgb");
+				elem.style.color = color.css()
+			}
+		}
+		textGradient()
+
+		window.addEventListener("resize", textGradient)
+
+
 	</script>
   </body>
 </html>

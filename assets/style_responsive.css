@@ -166,10 +166,19 @@ figcaption{
 }
 
 /* TEXT GRADIENT */
+/*h1, h2{
+	color: rgb(163, 103, 140);
+}
+
+p{
+	color:  rgb(197, 218, 128);
+}
+
 .container, 
 article, 
 figure, 
-.container>header
+.container>header,
+section
 {
 	background: -webkit-linear-gradient(90deg, rgb(197, 218, 128), rgb(163, 103, 140));
  	-webkit-background-clip: text;
@@ -179,13 +188,14 @@ figure,
 	.container, 
 	article, 
 	figure, 
-	.container>header
+	.container>header,
+	section
 	{
 		background: -webkit-linear-gradient(260deg, rgb(197, 218, 128), rgb(163, 103, 140));
 	 	-webkit-background-clip: text;
 	 	-webkit-text-fill-color: transparent;
 	}
-}
+}*/
 
 
 @media screen and (min-width: 600px) {

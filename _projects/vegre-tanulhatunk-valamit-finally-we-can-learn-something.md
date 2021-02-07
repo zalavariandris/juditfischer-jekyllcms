@@ -37,7 +37,7 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3234.jpg
+      url: media/S7A3234.jpg
       title: S7A3234.jpg
       alt: ''
     caption: ''
