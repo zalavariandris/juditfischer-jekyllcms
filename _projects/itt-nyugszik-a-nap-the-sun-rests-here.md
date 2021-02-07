@@ -1,5 +1,5 @@
 ---
-title: Itt nyugszik a nap / The sub rests here
+title: Itt nyugszik a nap / The sun rests here
 gallery:
   - image:
       url: media/meghivovege.jpg
