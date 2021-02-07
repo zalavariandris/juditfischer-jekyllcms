@@ -103,6 +103,7 @@ COMPONENT
 
 	cursor: pointer;
 }
+
 #back:hover{
 	color: red;
 }
@@ -150,7 +151,7 @@ article.cv{
 }
 .cv section{
 	display: block;
-	max-height: 100%;
+	max-height: 75vh;
     column-width: 10rem;
     font-size: 0.8rem;
     /*margin-left: 3rem;*/
@@ -164,7 +165,13 @@ h1{
 }
 
 header, article{
-	color: rgb(170, 120, 150);
+	
+}
+
+figcaption{
+	font-size: 0.7rem;
+	text-align: right;
+	font-style: italic;
 }
 
 @media screen and (min-width: 600px) {
@@ -236,7 +243,7 @@ header, article{
 
 	figure+figure{
 		margin: 0;
-		margin-left: 3rem;
+		margin-left: 15vw;
 	}
 
 	figure{
@@ -244,7 +251,7 @@ header, article{
 	}
 
 	figure img{
-		max-height: 100%;
+		max-height: 75vh;
 		max-width: 90vw;
 	}
 
