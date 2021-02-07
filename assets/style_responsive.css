@@ -209,6 +209,9 @@ h1{
 		align-items: flex-end;
 		/*padding: 0;*/
 	}
+	body>article>header{
+		margin-right: 1rem;
+	}
 
 	article .gallery{
 		display: flex;

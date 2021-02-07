@@ -3,8 +3,34 @@ layout: default
 exclude: true
 ---
 
-<h2>News</h2>
-{% for post in site.posts %}
+{{site['projects'][''].id}}
+
+{% assign thepost = site.projects | where:"slug","ami-szep-az-szep-beautiful-is-beautiful" %}
+
+{% for page in thepost %}
+<article>
+	<header>
+		<h2>NEWS<br/>{{page.title}}</h2>
+		<p>Solo Exhibition at Kisterem Gallery</p>
+		<p>2021.02.11</p>
+		<a href="https://www.facebook.com/events/1147416339047574/">facebook event</a>
+	</header>
+	<section>
+
+	</section>
+	<section class="gallery">
+		{% for item in page.gallery %}
+		<figure>
+			<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
+			<figcaption>{{item.caption}}</figcaption>
+		</figure>
+		{% endfor %}
+	</section>
+</article>
+{% endfor %}
+
+
+<!-- {% for post in site.posts %}
 	<article class="surface">
 		<header>
 			<figure>
@@ -16,3 +42,4 @@ exclude: true
 		{{ post.content }}
 	</article>
 {% endfor %}
+ -->
