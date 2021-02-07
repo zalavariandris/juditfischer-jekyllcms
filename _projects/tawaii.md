@@ -78,3 +78,4 @@ gallery:
     caption: ''
 ---
 
+Budapest Galéria Kiállítóháza, 2009
