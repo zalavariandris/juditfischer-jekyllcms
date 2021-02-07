@@ -140,7 +140,7 @@ article header+section>article h3{
 
 article header+section>article img{
     width: 100%;
-    max-height: 50vh;
+    max-height: 75vh;
     object-fit: contain;
     object-position: left;
 }
@@ -163,6 +163,10 @@ h1{
 	margin: 1em auto;
 }
 
+header, article{
+	color: rgb(170, 120, 150);
+}
+
 @media screen and (min-width: 600px) {
 	h1, h2, nav, a, .button{
 		text-align: left;
@@ -176,8 +180,8 @@ h1{
 
 	body{
 		display: flex;
-		padding-top: 10vh;
-		height: 75vh;
+		padding-top: 7vh;
+		height: 85vh;
 	}
 	body>header{
 		display: flex;

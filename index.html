@@ -3,43 +3,15 @@ layout: default
 exclude: true
 ---
 
-{{site['projects'][''].id}}
-
-{% assign thepost = site.projects | where:"slug","ami-szep-az-szep-beautiful-is-beautiful" %}
-
-{% for page in thepost %}
-<article>
-	<header>
-		<h2>NEWS<br/>{{page.title}}</h2>
-		<p>Solo Exhibition at Kisterem Gallery</p>
-		<p>2021.02.11</p>
-		<a href="https://www.facebook.com/events/1147416339047574/">facebook event</a>
-	</header>
-	<section>
-
-	</section>
-	<section class="gallery">
-		{% for item in page.gallery %}
-		<figure>
-			<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
-			<figcaption>{{item.caption}}</figcaption>
-		</figure>
-		{% endfor %}
-	</section>
-</article>
-{% endfor %}
-
-
-<!-- {% for post in site.posts %}
+{% for post in site.posts %}
 	<article class="surface">
 		<header>
 			<figure>
 				<img width="100px" src="{{post.image.url}}"/>
 			</figure>
-			<h3>{{ post.title }}</h3>
-			<small>{{post.date | date: "%Y %B %-d"}}</small>
+<!-- 			<h3>{{ post.title }}</h3>
+			<small>{{post.date | date: "%Y %B %-d"}}</small> -->
 		</header>
 		{{ post.content }}
 	</article>
 {% endfor %}
- -->
