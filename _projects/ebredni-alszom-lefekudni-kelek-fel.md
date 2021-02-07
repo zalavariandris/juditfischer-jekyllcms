@@ -1,5 +1,5 @@
 ---
-title: 'Álmodni alszom, lefeküdni kelek fel'
+title: 'Ébredni alszom, lefeküdni kelek fel'
 gallery:
   - image:
       url: media/IMG_7142_1.jpg
@@ -13,3 +13,4 @@ gallery:
     caption: ''
 ---
 
+2016, FKSE
