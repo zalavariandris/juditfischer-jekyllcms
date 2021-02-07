@@ -99,7 +99,7 @@
 			for(let elem of elements){
 				const rect = elem.getBoundingClientRect();
 				let a = limit((rect.y+rect.height/2)/height, 0, 1)
-				console.log(a)
+
 				let color = chroma.mix(colorA, colorB, a, "rgb");
 				elem.style.color = color.css()
 			}
