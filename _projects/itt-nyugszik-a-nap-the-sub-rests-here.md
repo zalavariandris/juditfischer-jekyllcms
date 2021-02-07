@@ -1,6 +1,11 @@
 ---
-title: Itt nyugszik a nap
+title: Itt nyugszik a nap / The sub rests here
 gallery:
+  - image:
+      url: media/meghivovege.jpg
+      title: meghivovege.jpg
+      alt: ''
+    caption: ''
   - image:
       url: media/Fischer Judit 38 sRGB 72ppi 1920px.jpg
       title: Fischer Judit 38 sRGB 72ppi 1920px.jpg
@@ -64,11 +69,6 @@ gallery:
   - image:
       url: media/IMG_1253_resize.jpg
       title: IMG_1253_resize.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/meghivovege.jpg
-      title: meghivovege.jpg
       alt: ''
     caption: ''
   - image:
