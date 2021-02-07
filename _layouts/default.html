@@ -11,38 +11,40 @@
     <link href="{{ '/assets/style_responsive.css' | relative_url }}" rel="stylesheet">
   </head>
   <body class="{{page.title}}">
-	<header>
-		<h1>
-			<a href="{{ '/' | relative_url }}">Judit<br/>Fischer</a>
-		</h1>
-		
-		<nav>
-			{% include navigation.html %}
-		</nav>
-		<span class="button" id="back"></span>
-	</header>
-	
-	<article class="{{page.title}}">
+  	<div class="container">
 		<header>
-			<h2 id="page_header">{{page.title}}</h2>
+			<h1>
+				<a href="{{ '/' | relative_url }}">Judit<br/>Fischer</a>
+			</h1>
+			
+			<nav>
+				{% include navigation.html %}
+			</nav>
+			<span class="button" id="back"></span>
 		</header>
+		
+		<article class="{{page.title}}">
+			<header>
+				<h2 id="page_header">{{page.title}}</h2>
+			</header>
 
-		<section>
-			{{content}}
-		</section>
+			<section>
+				{{content}}
+			</section>
 
-		<section class="gallery">
-			{% for item in page.gallery %}
-			<figure>
-				<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
-				<figcaption>{{item.caption}}</figcaption>
-			</figure>
-			{% endfor %}
-		</section>
-	</article>
+			<section class="gallery">
+				{% for item in page.gallery %}
+				<figure>
+					<img src="{{item.image.url}}" title="{{item.image.title}}" alt="{{item.image.alt}}">
+					<figcaption>{{item.caption}}</figcaption>
+				</figure>
+				{% endfor %}
+			</section>
+		</article>
 
-	<footer>
-	</footer>
+		<footer>
+		</footer>
+	</div>
 
 	<script>
 		if (
