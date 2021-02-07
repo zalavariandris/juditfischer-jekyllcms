@@ -3,15 +3,15 @@ layout: default
 exclude: true
 ---
 
+<h2>News</h2>
 {% for post in site.posts %}
 	<article class="surface">
 		<header>
 			<figure>
 				<img width="100px" src="{{post.image.url}}"/>
 			</figure>
-			<h3>
-				{{ post.title }}
-			</h3>
+			<h3>{{ post.title }}</h3>
+			<small>{{post.date | date: "%Y %B %-d"}}</small>
 		</header>
 		{{ post.content }}
 	</article>
