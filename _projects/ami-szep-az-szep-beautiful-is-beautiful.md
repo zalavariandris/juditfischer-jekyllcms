@@ -7,13 +7,13 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_37.jpg
-      title: Fischer_Judit_37.jpg
+      url: media/Fischer_Judit_01.jpg
+      title: Fischer_Judit_01.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/Fischer_Judit_01.jpg
-      title: Fischer_Judit_01.jpg
+      url: media/Fischer_Judit_37.jpg
+      title: Fischer_Judit_37.jpg
       alt: ''
     caption: ''
   - image:
