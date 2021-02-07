@@ -1,5 +1,5 @@
 ---
-title: Lowercase Life / Kisbetűs élet
+title: Kisbetűs élet / Lowercase life
 gallery:
   - image:
       url: media/Fischer Judit 57 sRGB 72ppi 1920px.jpg

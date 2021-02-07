@@ -5,7 +5,7 @@ gallery:
       url: media/IKNI6094.jpg
       title: IKNI6094.jpg
       alt: ''
-    caption: 'Berlin, Povvera'
+    caption: 'Discomfort on a tolerable degree, Berlin, Povvera, 2016'
   - image:
       url: media/IKNI6121.jpg
       title: IKNI6121.jpg
