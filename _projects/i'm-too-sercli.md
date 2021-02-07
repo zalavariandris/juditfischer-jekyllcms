@@ -7,6 +7,16 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/_MG_6520.jpg
+      title: _MG_6520.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/_MG_7090.JPG
+      title: _MG_7090.JPG
+      alt: ''
+    caption: ''
+  - image:
       url: media/IMG_6546 copy.jpg
       title: IMG_6546 copy.jpg
       alt: ''
@@ -37,8 +47,8 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/cetlifestmeny2.jpg
-      title: cetlifestmeny2.jpg
+      url: media/_MG_6537.jpg
+      title: _MG_6537.jpg
       alt: ''
     caption: ''
   - image:
@@ -47,4 +57,4 @@ gallery:
       alt: ''
     caption: ''
 ---
-SERCLI
+Liget Galéria, 21017
