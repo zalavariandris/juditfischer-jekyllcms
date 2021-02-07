@@ -12,32 +12,32 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3221.jpg
+      url: media/S7A3221.jpg
       title: S7A3221.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3993.jpg
+      url: media/S7A3993.jpg
       title: S7A3993.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3227.jpg
+      url: media/S7A3227.jpg
       title: S7A3227.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3229.jpg
+      url: media/S7A3229.jpg
       title: S7A3229.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3232.jpg
+      url: media/S7A3232.jpg
       title: S7A3232.jpg
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3233.jpg
+      url: media/S7A3233.jpg
       title: S7A3233.jpg
       alt: ''
     caption: ''
@@ -47,7 +47,7 @@ gallery:
       alt: ''
     caption: ''
   - image:
-      url: media/_S7A3237.jpg
+      url: media/S7A3237.jpg
       title: S7A3237.jpg
       alt: ''
     caption: ''
