@@ -231,6 +231,7 @@ gallery:
       title: Fischer_Judit_18.jpg
       alt: ''
     caption: ''
+year: 2021
 ---
 
 Kisterem, 2021
