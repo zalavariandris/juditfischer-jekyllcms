@@ -1,5 +1,6 @@
 ---
 title: 'Ébredni alszom, lefeküdni kelek fel'
+year: 2016
 gallery:
   - image:
       url: media/IMG_7142_1.jpg

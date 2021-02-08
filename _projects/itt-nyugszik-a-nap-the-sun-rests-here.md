@@ -1,5 +1,6 @@
 ---
 title: Itt nyugszik a nap / The sun rests here
+year: 2013
 gallery:
   - image:
       url: media/meghivovege.jpg
@@ -93,4 +94,4 @@ gallery:
     caption: ''
 ---
 
-Inda Galéria,2013
+Inda Galéria, 2013

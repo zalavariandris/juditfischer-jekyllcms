@@ -1,5 +1,6 @@
 ---
 title: ' Mindenjó / Allgood'
+year: 2011
 gallery:
   - image:
       url: media/Fischer Judit 29.jpg

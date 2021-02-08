@@ -1,5 +1,6 @@
 ---
 title: 'Mindenkinek van egy álma, mindenkinek van egy tévedése'
+year: 2016
 gallery:
   - image:
       url: media/IMG_3863.jpg

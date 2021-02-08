@@ -1,5 +1,6 @@
 ---
 title: I'm too sercli
+year: 2017
 gallery:
   - image:
       url: media/Fischer Judit Paletták.jpg
@@ -57,4 +58,4 @@ gallery:
       alt: ''
     caption: ''
 ---
-Liget Galéria, 21017
+Liget Galéria, 2017
