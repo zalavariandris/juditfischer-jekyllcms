@@ -12,5 +12,6 @@ gallery:
     caption: |-
       Azértt háborúzni hogy kiskutya alakú legyen az ország
       2007
+year: 2007
 ---
 
