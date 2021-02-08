@@ -1,3 +1,7 @@
+## TODO
+- [ ] SEO
+- [ ] Projects order
+
 # Jekyl-CMS Sandbox
 A sandbox for my jekyll-cms currently in development.
 
