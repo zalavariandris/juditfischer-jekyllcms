@@ -46,5 +46,6 @@ gallery:
       title: S7A3237.jpg
       alt: ''
     caption: ''
+year: 2020
 ---
 
