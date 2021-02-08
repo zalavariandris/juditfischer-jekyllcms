@@ -35,7 +35,7 @@ gallery:
       title: 'les faux fauves_matisse muterme_60 x 69cm_stanc, polifoam_2017.jpg'
       alt: ''
     caption: ''
-year: 2000
+year: 2020
 ---
 
 in collaboration with Gábor Kristóf
