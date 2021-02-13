@@ -1,9 +1,9 @@
-## TODO
-- [ ] SEO
-- [ ] Projects order
+# Judit Fischer's portfolio site with a custom CMS
 
-# Jekyl-CMS Sandbox
-A sandbox for my jekyll-cms currently in development.
+## TODO
+- [x] Projects order
+- [ ] SEO
+- [ ] Optimize for sharing https://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/
 
 ## To host on a domain
 create a CNAME file containing the domain

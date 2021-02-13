@@ -1,11 +1,23 @@
 ---
 title: Judit Fischer
+description: >- # this means to ignore newlines until "baseurl:"
+  Judit Fischer portfolio site
+url: juditfischer.com
+author: Judit Fischer
 timezone: UTC
+
+social:
+  name: Judit Fischer
+  links:
+    - https://www.facebook.com/fischer.judit
+    - https://www.instagram.com/blesstonia
+
+
+
+permalink: pretty
 exclude:
 - README.md
 
-url: juditfischer.com
-permalink: pretty
 livereload: true     # You no longer need to include --livereload
 incremental: false
 
@@ -31,4 +43,7 @@ defaults:
     gallery:
     - image: http://placekitten.com/200/300
       caption: ''
+
+plugins:
+  - jekyll-seo-tag
 
