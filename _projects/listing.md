@@ -56,5 +56,7 @@ gallery:
       title: listing_vii_installation_view_kisterem_2018_6.jpg
       alt: ''
     caption: ''
+year: 2018
 ---
 
+Kisterem, 2018

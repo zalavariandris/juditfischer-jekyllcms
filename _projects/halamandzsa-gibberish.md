@@ -66,6 +66,7 @@ gallery:
       title: pirospompom.jpg
       alt: ''
     caption: ''
+year: 2015
 ---
 
 With Judit Navratil and Zsófia Szemző
