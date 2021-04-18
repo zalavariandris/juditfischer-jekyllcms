@@ -82,6 +82,16 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/kocosecset.jpg
+      title: kocosecset.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/fischerecset.jpg
+      title: fischerecset.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/Fischer Judit 03.jpg
       title: Fischer Judit 03.jpg
       alt: ''
@@ -164,16 +174,6 @@ gallery:
   - image:
       url: media/Fischer Judit 34.jpg
       title: Fischer Judit 34.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/kocosecset.jpg
-      title: kocosecset.jpg
-      alt: ''
-    caption: ''
-  - image:
-      url: media/fischerecset.jpg
-      title: fischerecset.jpg
       alt: ''
     caption: ''
   - image:
