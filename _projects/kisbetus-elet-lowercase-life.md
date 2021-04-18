@@ -1,6 +1,5 @@
 ---
 title: Kisbetűs élet / Lowercase life
-year: 2009
 gallery:
   - image:
       url: media/Fischer Judit 57 sRGB 72ppi 1920px.jpg
@@ -168,6 +167,16 @@ gallery:
       alt: ''
     caption: ''
   - image:
+      url: media/kocosecset.jpg
+      title: kocosecset.jpg
+      alt: ''
+    caption: ''
+  - image:
+      url: media/fischerecset.jpg
+      title: fischerecset.jpg
+      alt: ''
+    caption: ''
+  - image:
       url: media/Fischer Judit 36.jpg
       title: Fischer Judit 36.jpg
       alt: ''
@@ -212,5 +221,6 @@ gallery:
       title: Fischer Judit 56 sRGB 72ppi 1920px.jpg
       alt: ''
     caption: ''
+year: 2009
 ---
 2009 FKSE
