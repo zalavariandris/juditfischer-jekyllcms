@@ -12,8 +12,6 @@ social:
     - https://www.facebook.com/fischer.judit
     - https://www.instagram.com/blesstonia
 
-
-
 permalink: pretty
 exclude:
 - README.md
@@ -46,4 +44,3 @@ defaults:
 
 plugins:
   - jekyll-seo-tag
-
