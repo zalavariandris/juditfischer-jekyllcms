@@ -11,5 +11,6 @@ gallery:
       title: IMG_3674.JPG
       alt: ''
     caption: ''
+year: 2020
 ---
 sunshine
