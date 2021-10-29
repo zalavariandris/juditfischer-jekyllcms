@@ -11,10 +11,13 @@ The admin is a custom built VUE application, that directly push changes to the g
 
 ![screenshot admin](./docs/admin_screenshot.png)
 
+https://user-images.githubusercontent.com/4587642/139461910-9cf774af-a559-415d-84d0-91e20f5e0124.mp4
+
 ## TODO
 - [x] Projects order
 - [ ] SEO
 - [ ] Optimize for sharing https://www.siteleaf.com/blog/seo-with-jekyll-siteleaf/
 
 ## To host on a domain
+
 create a CNAME file containing the domain
